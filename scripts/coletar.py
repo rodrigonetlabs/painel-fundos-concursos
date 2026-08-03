@@ -44,7 +44,7 @@ RE_MADEIRA = re.compile(
 
 
 def e_da_madeira(item):
-    """Filtra oportunidades que mencionem a Madeira no título, entidade ou tipo (RAM como palavra inteira, para evitar falsos positivos tipo 'programa')."""
+    """Deteta se a oportunidade menciona a Madeira no título, entidade ou tipo (RAM como palavra inteira, para evitar falsos positivos tipo 'programa'). Não filtra — só marca o item."""
     texto = f"{item.get('titulo', '')} {item.get('entidade', '')} {item.get('tipo', '')}"
     return bool(RE_MADEIRA.search(texto))
 
@@ -157,10 +157,11 @@ def main():
     anteriores = carregar_dados_anteriores()
     ids_anteriores = {item["id"] for item in anteriores}
 
-    atuais = [item for item in obter_ted(config) + obter_rss(config) if e_da_madeira(item)]
+    atuais = obter_ted(config) + obter_rss(config)
 
     agora = datetime.now(timezone.utc).isoformat()
     for item in atuais:
+        item["madeira"] = e_da_madeira(item)
         item["novo"] = item["id"] not in ids_anteriores
         item["detetado_em"] = agora if item["novo"] else next(
             (a["detetado_em"] for a in anteriores if a["id"] == item["id"]), agora
