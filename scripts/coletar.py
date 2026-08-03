@@ -9,6 +9,7 @@ feeds RSS oficiais). Corre uma vez por dia via GitHub Actions.
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -35,6 +36,17 @@ def carregar_dados_anteriores():
             return json.load(f).get("oportunidades", [])
     except (json.JSONDecodeError, OSError):
         return []
+
+
+RE_MADEIRA = re.compile(
+    r"\b(madeira|funchal|ram|regi[aã]o aut[oó]noma)\b", re.IGNORECASE
+)
+
+
+def e_da_madeira(item):
+    """Filtra oportunidades que mencionem a Madeira no título, entidade ou tipo (RAM como palavra inteira, para evitar falsos positivos tipo 'programa')."""
+    texto = f"{item.get('titulo', '')} {item.get('entidade', '')} {item.get('tipo', '')}"
+    return bool(RE_MADEIRA.search(texto))
 
 
 def texto_multilingue(valor, preferencia=("por", "eng")):
@@ -145,7 +157,7 @@ def main():
     anteriores = carregar_dados_anteriores()
     ids_anteriores = {item["id"] for item in anteriores}
 
-    atuais = obter_ted(config) + obter_rss(config)
+    atuais = [item for item in obter_ted(config) + obter_rss(config) if e_da_madeira(item)]
 
     agora = datetime.now(timezone.utc).isoformat()
     for item in atuais:
