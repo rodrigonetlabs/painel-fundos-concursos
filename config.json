@@ -1,0 +1,29 @@
+{
+  "_comentario": "Edita estes valores para calibrar à tua startup. Não apagues a estrutura, só os valores.",
+
+  "palavras_chave": [
+    "software de gestão",
+    "gestão de restaurantes",
+    "gestão clínica",
+    "gestão hospitalar",
+    "inteligência artificial",
+    "transformação digital",
+    "digitalização de empresas",
+    "software de faturação",
+    "ERP",
+    "gestão de fornecedores"
+  ],
+
+  "paises_ted": ["PRT"],
+
+  "rss_feeds": [
+    {
+      "nome": "Funding & Tenders Portal — Novos concursos",
+      "url": "",
+      "tipo": "Fundo UE",
+      "_nota": "Vai a https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search, faz a tua pesquisa filtrada e clica no ícone de RSS da página. Cola aqui o link gerado."
+    }
+  ],
+
+  "max_resultados_ted": 40
+}

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fundos & Concursos</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root{
+    --paper:#EDEEE6;
+    --paper-raised:#F6F7F1;
+    --ink:#17233D;
+    --ink-soft:#4A5674;
+    --azulejo:#2E5F8A;
+    --selo:#A9832E;
+    --urgente:#7A2E2E;
+    --aberto:#3C6E4F;
+    --fechado:#8A8578;
+    --line:#CBCABC;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;}
+  .wrap{max-width:920px;margin:0 auto;padding:36px 20px 80px;}
+
+  .capa{border:1.5px solid var(--ink);padding:22px 26px;background:var(--paper-raised);position:relative;margin-bottom:24px;}
+  .capa::before{content:"FONTE: TED + FEEDS OFICIAIS";position:absolute;top:-10px;left:22px;background:var(--paper);padding:0 8px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.1em;color:var(--ink-soft);}
+  .capa h1{font-family:'Fraunces',serif;font-weight:700;font-size:28px;margin:6px 0 4px;}
+  .capa p{margin:0;font-size:13.5px;color:var(--ink-soft);}
+  .capa .meta{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);margin-top:10px;}
+
+  .filtros{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap;align-items:center;}
+  .filtros input{flex:1;min-width:180px;padding:9px 12px;border:1px solid var(--line);background:#fff;font-family:'IBM Plex Sans',sans-serif;font-size:13.5px;}
+  .tab{font-family:'IBM Plex Mono',monospace;font-size:11.5px;padding:8px 12px;cursor:pointer;color:var(--ink-soft);background:var(--paper-raised);border:1px solid var(--line);}
+  .tab.active{color:#fff;background:var(--ink);border-color:var(--ink);}
+
+  .ficha{border:1px solid var(--line);background:var(--paper-raised);padding:16px 18px;margin-bottom:12px;display:grid;grid-template-columns:auto 1fr;gap:16px;align-items:start;}
+  .ficha.novo{border-left:3px solid var(--aberto);}
+  .selo{width:52px;height:52px;border-radius:50%;border:2px dashed currentColor;display:flex;align-items:center;justify-content:center;text-align:center;font-family:'IBM Plex Mono',monospace;font-size:8.5px;font-weight:600;transform:rotate(-8deg);flex-shrink:0;line-height:1.15;}
+  .s-urgente{color:var(--urgente);} .s-atencao{color:var(--selo);} .s-aberto{color:var(--aberto);} .s-fechado{color:var(--fechado);}
+
+  .top-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:3px;}
+  .tipo-tag{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--azulejo);border:1px solid var(--azulejo);padding:1px 6px;}
+  .tag-novo{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--aberto);border:1px solid var(--aberto);padding:1px 6px;}
+  h4{margin:2px 0 4px;font-family:'Fraunces',serif;font-size:16.5px;font-weight:600;}
+  .entidade{font-size:12.5px;color:var(--ink-soft);margin-bottom:4px;}
+  .prazo-line{font-family:'IBM Plex Mono',monospace;font-size:11.5px;margin-top:4px;color:var(--ink-soft);}
+  a.link{font-size:12px;color:var(--azulejo);}
+
+  .empty{text-align:center;padding:50px 20px;color:var(--ink-soft);border:1px dashed var(--line);font-size:13.5px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="capa">
+    <h1>Fundos & Concursos</h1>
+    <p>Deteção automática diária a partir de fontes oficiais — TED e feeds RSS configurados. Sem intervenção manual.</p>
+    <div class="meta" id="metaAtualizacao">a carregar…</div>
+  </div>
+
+  <div class="filtros">
+    <button class="tab active" data-filtro="todos">Todas</button>
+    <button class="tab" data-filtro="Fundo UE">Fundos UE</button>
+    <button class="tab" data-filtro="Concurso Público">Concursos Públicos</button>
+    <button class="tab" data-filtro="novo">Novas hoje</button>
+    <input type="text" id="pesquisa" placeholder="Pesquisar por título ou entidade…">
+  </div>
+
+  <div id="lista"></div>
+  <div class="empty" id="vazio" style="display:none;">
+    Sem oportunidades para mostrar ainda. Se acabaste de configurar o repositório, corre a Action manualmente em
+    <em>Actions → Atualizar oportunidades → Run workflow</em>.
+  </div>
+</div>
+
+<script>
+let dados = [];
+let filtro = 'todos';
+
+function diasRestantes(prazo){
+  if(!prazo) return null;
+  const hoje = new Date(); hoje.setHours(0,0,0,0);
+  const d = new Date(prazo);
+  return Math.round((d-hoje)/86400000);
+}
+
+function selo(item){
+  const dias = diasRestantes(item.prazo);
+  if(dias === null) return {cls:'s-atencao', txt:'SEM<br>PRAZO'};
+  if(dias < 0) return {cls:'s-fechado', txt:'EXPIRADO'};
+  if(dias <= 7) return {cls:'s-urgente', txt:dias+'<br>DIAS'};
+  if(dias <= 30) return {cls:'s-atencao', txt:dias+'<br>DIAS'};
+  return {cls:'s-aberto', txt:dias+'<br>DIAS'};
+}
+
+function escapeHtml(s){return (s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+
+function render(){
+  const termo = document.getElementById('pesquisa').value.trim().toLowerCase();
+  let visiveis = dados.filter(d=>{
+    if(filtro === 'novo' && !d.novo) return false;
+    if(filtro !== 'todos' && filtro !== 'novo' && d.tipo !== filtro) return false;
+    if(termo && !(d.titulo||'').toLowerCase().includes(termo) && !(d.entidade||'').toLowerCase().includes(termo)) return false;
+    return true;
+  });
+
+  const lista = document.getElementById('lista');
+  const vazio = document.getElementById('vazio');
+  lista.innerHTML = '';
+  vazio.style.display = visiveis.length ? 'none' : 'block';
+
+  visiveis.forEach(item=>{
+    const s = selo(item);
+    const el = document.createElement('div');
+    el.className = 'ficha' + (item.novo ? ' novo' : '');
+    el.innerHTML = `
+      <div class="selo ${s.cls}">${s.txt}</div>
+      <div>
+        <div class="top-row">
+          <span class="tipo-tag">${escapeHtml(item.tipo)}</span>
+          ${item.novo ? '<span class="tag-novo">NOVO</span>' : ''}
+        </div>
+        <h4>${escapeHtml(item.titulo)}</h4>
+        <div class="entidade">${escapeHtml(item.entidade)} · ${escapeHtml(item.fonte)}</div>
+        <div class="prazo-line">Prazo: ${item.prazo ? new Date(item.prazo).toLocaleDateString('pt-PT') : '—'}</div>
+        ${item.link ? `<div style="margin-top:6px;"><a class="link" href="${item.link}" target="_blank">Ver aviso →</a></div>` : ''}
+      </div>
+    `;
+    lista.appendChild(el);
+  });
+}
+
+document.querySelectorAll('.tab').forEach(t=>{
+  t.addEventListener('click', ()=>{
+    document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+    filtro = t.dataset.filtro;
+    render();
+  });
+});
+document.getElementById('pesquisa').addEventListener('input', render);
+
+fetch('data/oportunidades.json')
+  .then(r=>r.json())
+  .then(json=>{
+    dados = json.oportunidades || [];
+    const meta = document.getElementById('metaAtualizacao');
+    meta.textContent = json.atualizado_em
+      ? 'Última atualização: ' + new Date(json.atualizado_em).toLocaleString('pt-PT')
+      : 'Ainda sem dados — corre a Action pela primeira vez.';
+    render();
+  })
+  .catch(()=>{
+    document.getElementById('vazio').style.display = 'block';
+  });
+</script>
+</body>
+</html>
