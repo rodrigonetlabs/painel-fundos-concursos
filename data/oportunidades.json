@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-08-05T13:20:03.772220+00:00",
+  "atualizado_em": "2026-08-06T13:12:39.207117+00:00",
   "total": 33,
   "oportunidades": [
-    {
-      "id": "ted-469068-2026",
-      "titulo": "Portugal – Serviços de impressão e afins – Serviços de Cópia, Impressão, Digitalização, Consumíveis, Software de Gestão, Controlo e Segurança 2026-2029",
-      "entidade": "Unidade Local de Saúde do Alto Minho, EPE",
-      "tipo": "Concurso Público",
-      "prazo": "2026-08-05T18:00:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/469068-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-03T10:53:01.853889+00:00"
-    },
     {
       "id": "ted-505189-2026",
       "titulo": "Portugal – Servidores – Aquisição de um servidor de Inteligência Artificial de alto desempenho para atualização e expansão do supercomputador Vision (Procedimento n.º 165/DCP-GCE/UE/2026)",
@@ -397,6 +385,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-08-03T10:53:01.853889+00:00"
+    },
+    {
+      "id": "ted-527657-2026",
+      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
+      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/527657-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-08-06T13:12:39.207117+00:00"
     }
   ]
 }
