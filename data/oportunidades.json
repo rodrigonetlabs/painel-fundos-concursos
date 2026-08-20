@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-08-19T09:05:46.367279+00:00",
-  "total": 35,
+  "atualizado_em": "2026-08-20T09:05:21.278668+00:00",
+  "total": 34,
   "oportunidades": [
-    {
-      "id": "ted-505189-2026",
-      "titulo": "Portugal – Servidores – Aquisição de um servidor de Inteligência Artificial de alto desempenho para atualização e expansão do supercomputador Vision (Procedimento n.º 165/DCP-GCE/UE/2026)",
-      "entidade": "Universidade de Évora",
-      "tipo": "Concurso Público",
-      "prazo": "2026-08-19T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/505189-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
     {
       "id": "ted-67886-2026",
       "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – BIA - BOT DE INTELIGÊNCIA ARTIFICIAL PARA A CONTRATAÇÃO PÚBLICA",
@@ -21,18 +9,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-329503-2026",
-      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) Aquisição de serviços de desenvolvimento de uma solução de inteligência artificial para integração de Prescrição Eletrónica Médica (PEM), para o Pilar 4 – Reforma dos SI dos Registos Nacionais [PRR] [20250056]",
-      "entidade": "SPMS, EPE - Serviços Partilhados do Ministério da Saúde, EPE",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/329503-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -421,6 +397,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-08-17T09:23:31.173160+00:00"
+    },
+    {
+      "id": "ted-538001-2026",
+      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
+      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/538001-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-08-20T09:05:21.278668+00:00"
     }
   ]
 }
