@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-08-30T07:08:00.323203+00:00",
-  "total": 35,
+  "atualizado_em": "2026-08-31T07:07:54.453121+00:00",
+  "total": 34,
   "oportunidades": [
-    {
-      "id": "ted-544627-2026",
-      "titulo": "Portugal – Servidores – Aquisição de um servidor de Inteligência Artificial de alto desempenho para atualização e expansão do supercomputador Vision (Procedimento n.º 165/DCP-GCE/UE/2026)",
-      "entidade": "Universidade de Évora",
-      "tipo": "Concurso Público",
-      "prazo": "2026-08-30T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/544627-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-24T09:31:40.455964+00:00"
-    },
     {
       "id": "ted-67886-2026",
       "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – BIA - BOT DE INTELIGÊNCIA ARTIFICIAL PARA A CONTRATAÇÃO PÚBLICA",
@@ -21,18 +9,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-357353-2026",
-      "titulo": "Portugal – Serviços de assistência técnica informática – Serviços técnicos para apoio à transformação digital",
-      "entidade": "Banco Português de Fomento, S. A.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/357353-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -421,6 +397,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-08-21T09:09:50.429235+00:00"
+    },
+    {
+      "id": "ted-554194-2026",
+      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) Aquisição de Serviços de Transformação Digital, Migração de Dados, Formação e Implementação de Sistemas de Cuidados de Saúde nas Unidades Locais de Saúde – Pilar 3 – PRR (20250224)",
+      "entidade": "SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/554194-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-08-31T07:07:54.453121+00:00"
     }
   ]
 }
