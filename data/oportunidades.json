@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-08-31T07:07:54.453121+00:00",
-  "total": 34,
+  "atualizado_em": "2026-09-01T07:14:37.182899+00:00",
+  "total": 35,
   "oportunidades": [
     {
       "id": "ted-67886-2026",
@@ -407,8 +407,20 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/554194-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-08-31T07:07:54.453121+00:00"
+    },
+    {
+      "id": "ted-556305-2026",
+      "titulo": "Portugal – Serviços de consultoria para avaliação – SERVIÇOS DE CONSULTORIA NO ÂMBITO DO ACOMPANHAMENTO DA RCM N.º 129/2021 DE 10 DE SETEMBRO E DA IMPLEMENTAÇÃO DA ESTRATÉGIA DE TRANSFORMAÇÃO DIGITAL NA AP",
+      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/556305-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-01T07:14:37.182899+00:00"
     }
   ]
 }
