@@ -1,7 +1,19 @@
 {
-  "atualizado_em": "2026-09-06T11:35:20.379974+00:00",
+  "atualizado_em": "2026-09-07T13:24:24.924090+00:00",
   "total": 35,
   "oportunidades": [
+    {
+      "id": "ted-559931-2026",
+      "titulo": "Portugal – Servidores – Aquisição de equipamentos para reforço da capacidade de computação para Inteligência Artificial (IA) e meios de armazenamento de dados",
+      "entidade": "Instituto Superior Técnico",
+      "tipo": "Concurso Público",
+      "prazo": "2026-09-14T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/559931-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-07T13:24:24.924090+00:00"
+    },
     {
       "id": "ted-67886-2026",
       "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – BIA - BOT DE INTELIGÊNCIA ARTIFICIAL PARA A CONTRATAÇÃO PÚBLICA",
@@ -15,36 +27,12 @@
       "detetado_em": "2026-08-08T09:20:40.784118+00:00"
     },
     {
-      "id": "ted-370579-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/370579-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
       "id": "ted-375138-2026",
       "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
       "entidade": "Agência para a Reforma Tecnológica do Estado, IP",
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/375138-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-376071-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, IP.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/376071-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -421,6 +409,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-01T07:14:37.182899+00:00"
+    },
+    {
+      "id": "ted-575507-2026",
+      "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – 4025024150/DA/A0290/2025-Renovação do licenciamento Microsoft do Exército, referente ao período de 01abr26 a 31mar27",
+      "entidade": "Estado-Maior do Exército",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/575507-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-07T13:24:24.924090+00:00"
     }
   ]
 }
