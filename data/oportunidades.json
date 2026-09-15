@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-09-14T13:47:42.534071+00:00",
-  "total": 35,
+  "atualizado_em": "2026-09-15T12:33:27.016710+00:00",
+  "total": 34,
   "oportunidades": [
-    {
-      "id": "ted-559931-2026",
-      "titulo": "Portugal – Servidores – Aquisição de equipamentos para reforço da capacidade de computação para Inteligência Artificial (IA) e meios de armazenamento de dados",
-      "entidade": "Instituto Superior Técnico",
-      "tipo": "Concurso Público",
-      "prazo": "2026-09-14T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/559931-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-07T13:24:24.924090+00:00"
-    },
     {
       "id": "ted-577917-2026",
       "titulo": "Portugal – Serviços de desenvolvimento de software para sectores específicos – Implementação e manutenção de uma Solução de Indicadores de Educação com Inteligência Artificial (SIE-IA), a integrar como módulo especializado na Plataforma de Gestão Urbana da Comunidade Intermunicipal",
