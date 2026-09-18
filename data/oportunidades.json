@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-09-17T12:30:45.722261+00:00",
-  "total": 35,
+  "atualizado_em": "2026-09-18T12:09:07.387779+00:00",
+  "total": 33,
   "oportunidades": [
-    {
-      "id": "ted-577917-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software para sectores específicos – Implementação e manutenção de uma Solução de Indicadores de Educação com Inteligência Artificial (SIE-IA), a integrar como módulo especializado na Plataforma de Gestão Urbana da Comunidade Intermunicipal",
-      "entidade": "CIMRL - Comunidade Intermunicipal da Região de Leiria",
-      "tipo": "Concurso Público",
-      "prazo": "2026-09-17T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/577917-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-10T12:08:37.023500+00:00"
-    },
     {
       "id": "ted-579200-2026",
       "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
@@ -35,7 +23,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/608711-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-09-17T12:30:45.722261+00:00"
     },
     {
@@ -45,42 +33,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-396208-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, IP.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/396208-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-399546-2026",
-      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) Aquisição de Serviços de Transformação Digital, Migração de Dados, Formação e Implementação de Sistemas de Cuidados de Saúde nas Unidades Locais de Saúde – Pilar 3 – PRR (20250224)",
-      "entidade": "SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/399546-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-402233-2026",
-      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) aquisição de serviços de transformação digital, migração e consolidação de dados em Agrupamento de Centros de Saúde (ACES) nas Unidades Locais de Saúde (ULS) para o Pilar 3 (PRR) [20250174]",
-      "entidade": "SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/402233-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -421,6 +373,30 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-07T13:24:24.924090+00:00"
+    },
+    {
+      "id": "ted-611884-2026",
+      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
+      "entidade": "Agência para a Reforma Tecnológica do Estado, IP",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/611884-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-18T12:09:07.387779+00:00"
+    },
+    {
+      "id": "ted-616752-2026",
+      "titulo": "Portugal – Contentores e baldes para lixo e resíduos – Aquisição de equipamentos de contentorização no âmbito da operação “Recolha seletiva de resíduos urbanos – Município da Trofa\"",
+      "entidade": "Trofambiente, EM, Sociedade Unipessoal, Lda.",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/616752-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-18T12:09:07.387779+00:00"
     }
   ]
 }
