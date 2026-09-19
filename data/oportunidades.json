@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-09-18T12:09:07.387779+00:00",
-  "total": 33,
+  "atualizado_em": "2026-09-19T11:51:57.105434+00:00",
+  "total": 32,
   "oportunidades": [
-    {
-      "id": "ted-579200-2026",
-      "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
-      "entidade": "Município da Maia",
-      "tipo": "Concurso Público",
-      "prazo": "2026-09-18T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/579200-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-16T12:30:42.139793+00:00"
-    },
     {
       "id": "ted-608711-2026",
       "titulo": "Portugal – Serviços relacionados com a informática – (DAG) AQUISIÇÃO DE FERRAMENTA DE ORQUESTRAÇÃO DE INTELIGÊNCIA ARTIFICIAL – PILAR 1 – REFORMA E MODERNIZAÇÃO DA REDE DE DADOS DA SAÚDE (PRR) (20260322)",
@@ -383,7 +371,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/611884-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-09-18T12:09:07.387779+00:00"
     },
     {
@@ -395,7 +383,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/616752-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-09-18T12:09:07.387779+00:00"
     }
   ]
