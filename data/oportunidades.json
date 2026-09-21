@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-20T12:09:48.522027+00:00",
-  "total": 32,
+  "atualizado_em": "2026-09-21T13:47:46.351998+00:00",
+  "total": 33,
   "oportunidades": [
     {
       "id": "ted-608711-2026",
@@ -13,6 +13,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-17T12:30:45.722261+00:00"
+    },
+    {
+      "id": "ted-644700-2026",
+      "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
+      "entidade": "Município da Maia",
+      "tipo": "Concurso Público",
+      "prazo": "2026-10-16T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/644700-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-21T13:47:46.351998+00:00"
     },
     {
       "id": "ted-67886-2026",
