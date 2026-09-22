@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T13:47:46.351998+00:00",
-  "total": 33,
+  "atualizado_em": "2026-09-22T12:29:41.872886+00:00",
+  "total": 32,
   "oportunidades": [
     {
       "id": "ted-608711-2026",
@@ -23,7 +23,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/644700-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-09-21T13:47:46.351998+00:00"
     },
     {
@@ -45,18 +45,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/410146-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-412551-2026",
-      "titulo": "Portugal – Serviços de consultoria em matéria de investigação e desenvolvimento – Aquisição de serviços de investigação e desenvolvimento no domínio da inteligência artificial como suporte à plataforma digital ORVE",
-      "entidade": "Instituto Politécnico de Leiria",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/412551-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
