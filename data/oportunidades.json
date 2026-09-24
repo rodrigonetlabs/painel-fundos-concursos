@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-23T12:40:11.989318+00:00",
-  "total": 32,
+  "atualizado_em": "2026-09-24T12:38:22.610976+00:00",
+  "total": 31,
   "oportunidades": [
     {
       "id": "ted-608711-2026",
@@ -33,18 +33,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-410146-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, IP",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/410146-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
