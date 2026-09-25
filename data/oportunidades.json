@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-24T12:38:22.610976+00:00",
+  "atualizado_em": "2026-09-25T12:40:32.809094+00:00",
   "total": 31,
   "oportunidades": [
     {
@@ -13,6 +13,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-17T12:30:45.722261+00:00"
+    },
+    {
+      "id": "ted-662028-2026",
+      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) AQUISIÇÃO DE FERRAMENTA DE ORQUESTRAÇÃO DE INTELIGÊNCIA ARTIFICIAL – PILAR 1 – REFORMA E MODERNIZAÇÃO DA REDE DE DADOS DA SAÚDE (PRR) (20260322)",
+      "entidade": "Serviços Partilhados do Ministério da Saúde, EPE",
+      "tipo": "Concurso Público",
+      "prazo": "2026-10-12T18:00:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/662028-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-09-25T12:40:32.809094+00:00"
     },
     {
       "id": "ted-644700-2026",
@@ -33,18 +45,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-418629-2026",
-      "titulo": "Portugal – Pacote de software e sistemas informáticos diversos – 2026_P074 - Projeto 14 - Aquisição de licenças de software da tecnologia Oracle, do tipo ou equivalente, com funcionalidades de Inteligência Artificial, com acesso às atualizações, correções e suporte do software, para projetos inscritos no contexto do PRR - Componente 17",
-      "entidade": "Entidade de Serviços Partilhados da Administração Pública, IP",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/418629-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
