@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-09-30T13:29:58.194332+00:00",
-  "total": 30,
+  "atualizado_em": "2026-10-01T14:20:41.771125+00:00",
+  "total": 29,
   "oportunidades": [
-    {
-      "id": "ted-608711-2026",
-      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) AQUISIÇÃO DE FERRAMENTA DE ORQUESTRAÇÃO DE INTELIGÊNCIA ARTIFICIAL – PILAR 1 – REFORMA E MODERNIZAÇÃO DA REDE DE DADOS DA SAÚDE (PRR) (20260322)",
-      "entidade": "Serviços Partilhados do Ministério da Saúde, EPE",
-      "tipo": "Concurso Público",
-      "prazo": "2026-09-30T18:00:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/608711-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-17T12:30:45.722261+00:00"
-    },
     {
       "id": "ted-662028-2026",
       "titulo": "Portugal – Serviços relacionados com a informática – (DAG) AQUISIÇÃO DE FERRAMENTA DE ORQUESTRAÇÃO DE INTELIGÊNCIA ARTIFICIAL – PILAR 1 – REFORMA E MODERNIZAÇÃO DA REDE DE DADOS DA SAÚDE (PRR) (20260322)",
@@ -45,18 +33,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-434031-2026",
-      "titulo": "Portugal – Serviços de publicidade – CONCURSO PÚBLICO INTERNACIONAL Nº 40/2026/DCP/DMC/ AQUISIÇÃO DE PARCEIRO MEDIÁTICO",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, IP",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/434031-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -361,6 +337,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-18T12:09:07.387779+00:00"
+    },
+    {
+      "id": "ted-677642-2026",
+      "titulo": "Portugal – Sistemas de informação e servidores – Aquisição de infraestrutura tecnológica de suporte à transformação digital a instalar em centro de dados municipal, no âmbito da candidatura “Região de Coimbra 3.X",
+      "entidade": "Município da Mealhada",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/677642-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-01T14:20:41.771125+00:00"
     }
   ]
 }
