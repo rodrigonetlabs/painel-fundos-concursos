@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-04T13:06:03.316013+00:00",
-  "total": 29,
+  "atualizado_em": "2026-10-05T15:45:14.082134+00:00",
+  "total": 28,
   "oportunidades": [
     {
       "id": "ted-662028-2026",
@@ -33,18 +33,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-439101-2026",
-      "titulo": "Portugal – Serviços de promoção – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do estado , I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/439101-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
