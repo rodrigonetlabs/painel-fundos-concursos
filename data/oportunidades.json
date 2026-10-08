@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-07T14:20:38.334587+00:00",
-  "total": 28,
+  "atualizado_em": "2026-10-08T14:28:36.655078+00:00",
+  "total": 30,
   "oportunidades": [
     {
       "id": "ted-662028-2026",
@@ -25,6 +25,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-09-21T13:47:46.351998+00:00"
+    },
+    {
+      "id": "ted-693641-2026",
+      "titulo": "Portugal – Serviços das agências noticiosas – Aquisição de serviços integrados de acompanhamento, tratamento documental, indexação, análise, arquivo, interoperabilidade e difusão de informação mediática multicanal, abrangendo imprensa, meios online, rádio, televisão e outras fontes informativas relevantes, com recurso a plataforma digital e a funcionalidade de apoio analítico, incluindo componentes de automatização e inteligência artificial",
+      "entidade": "Secretaria-Geral do Governo",
+      "tipo": "Concurso Público",
+      "prazo": "2026-11-05T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/693641-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-08T14:28:36.655078+00:00"
     },
     {
       "id": "ted-67886-2026",
@@ -337,6 +349,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-10-01T14:20:41.771125+00:00"
+    },
+    {
+      "id": "ted-693094-2026",
+      "titulo": "Portugal – Construção – Empreitada de Reabilitação do Edifício do Jardim Sul do Pólo da Alameda do IST - Centro para a Inteligência Artificial e Economia Digital",
+      "entidade": "Instituto Superior Técnico",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/693094-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-08T14:28:36.655078+00:00"
     }
   ]
 }
