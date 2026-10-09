@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T14:28:36.655078+00:00",
-  "total": 30,
+  "atualizado_em": "2026-10-09T14:15:39.112982+00:00",
+  "total": 29,
   "oportunidades": [
     {
       "id": "ted-662028-2026",
@@ -35,7 +35,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/693641-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-08T14:28:36.655078+00:00"
     },
     {
@@ -45,18 +45,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-451861-2026",
-      "titulo": "Portugal – Servidores informáticos – Aquisição de Servidor GPU",
-      "entidade": "INOV - Instituto de Engenharia de Sistemas e Computadores Inovação",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/451861-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
@@ -359,7 +347,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/693094-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-08T14:28:36.655078+00:00"
     }
   ]
