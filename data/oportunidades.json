@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-10-12T16:37:15.779822+00:00",
-  "total": 27,
+  "atualizado_em": "2026-10-13T14:54:26.339371+00:00",
+  "total": 26,
   "oportunidades": [
-    {
-      "id": "ted-662028-2026",
-      "titulo": "Portugal – Serviços relacionados com a informática – (DAG) AQUISIÇÃO DE FERRAMENTA DE ORQUESTRAÇÃO DE INTELIGÊNCIA ARTIFICIAL – PILAR 1 – REFORMA E MODERNIZAÇÃO DA REDE DE DADOS DA SAÚDE (PRR) (20260322)",
-      "entidade": "Serviços Partilhados do Ministério da Saúde, EPE",
-      "tipo": "Concurso Público",
-      "prazo": "2026-10-12T18:00:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/662028-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-25T12:40:32.809094+00:00"
-    },
     {
       "id": "ted-644700-2026",
       "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
@@ -323,7 +311,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/700914-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-12T16:37:15.779822+00:00"
     }
   ]
