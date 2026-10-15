@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-14T12:46:10.844054+00:00",
-  "total": 26,
+  "atualizado_em": "2026-10-15T12:33:08.064460+00:00",
+  "total": 23,
   "oportunidades": [
     {
       "id": "ted-644700-2026",
@@ -33,42 +33,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-464870-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Técnologica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/464870-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-465524-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/465524-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-467030-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/467030-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
