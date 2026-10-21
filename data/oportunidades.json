@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-20T12:37:34.669415+00:00",
-  "total": 22,
+  "atualizado_em": "2026-10-21T12:49:21.207156+00:00",
+  "total": 23,
   "oportunidades": [
     {
       "id": "ted-725663-2026",
@@ -11,8 +11,20 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/725663-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-20T12:37:34.669415+00:00"
+    },
+    {
+      "id": "ted-728599-2026",
+      "titulo": "Portugal – Servidores – Aquisição de servidor de inteligência artificial com quatro GPUs para a infraestrutura computacional do ALTEC",
+      "entidade": "Conselho Superior da Magistratura",
+      "tipo": "Concurso Público",
+      "prazo": "2026-11-03T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/728599-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-21T12:49:21.207156+00:00"
     },
     {
       "id": "ted-693641-2026",
