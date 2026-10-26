@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-25T12:26:03.459260+00:00",
-  "total": 23,
+  "atualizado_em": "2026-10-26T14:02:34.687017+00:00",
+  "total": 21,
   "oportunidades": [
     {
       "id": "ted-725663-2026",
@@ -45,30 +45,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/67886-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-495803-2026",
-      "titulo": "Portugal – Serviços de consultoria para avaliação – SERVIÇOS DE CONSULTORIA NO ÂMBITO DO ACOMPANHAMENTO DA RCM N.º 129/2021 DE 10 DE SETEMBRO E DA IMPLEMENTAÇÃO DA ESTRATÉGIA DE TRANSFORMAÇÃO DIGITAL NA AP",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/495803-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-499974-2026",
-      "titulo": "Portugal – Serviços de publicidade – CONCURSO PÚBLICO INTERNACIONAL Nº 40/2026/DCP/DMC/ AQUISIÇÃO DE PARCEIRO MEDIÁTICO",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, IP",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/499974-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
