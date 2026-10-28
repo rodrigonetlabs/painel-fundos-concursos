@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-27T13:04:37.738387+00:00",
-  "total": 22,
+  "atualizado_em": "2026-10-28T13:55:07.715931+00:00",
+  "total": 24,
   "oportunidades": [
     {
       "id": "ted-728599-2026",
@@ -35,8 +35,20 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/741317-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-27T13:04:37.738387+00:00"
+    },
+    {
+      "id": "ted-748907-2026",
+      "titulo": "Portugal – Serviços de consultoria em matéria comercial e de gestão e serviços conexos – Aquisição de serviços especializados para a execução da Operação \"Up Cávado Qualificação\"",
+      "entidade": "Associação Comercial de Braga",
+      "tipo": "Concurso Público",
+      "prazo": "2026-11-25T17:00:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/748907-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-28T13:55:07.715931+00:00"
     },
     {
       "id": "ted-67886-2026",
@@ -263,8 +275,20 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/742060-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-27T13:04:37.738387+00:00"
+    },
+    {
+      "id": "ted-745258-2026",
+      "titulo": "Portugal – Servidores – Aquisição de um servidor de Inteligência Artificial de alto desempenho para atualização e expansão do supercomputador Vision (Procedimento n.º 165/DCP-GCE/UE/2026)",
+      "entidade": "Universidade de Évora",
+      "tipo": "Concurso Público",
+      "prazo": null,
+      "link": "https://ted.europa.eu/en/notice/-/detail/745258-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-10-28T13:55:07.715931+00:00"
     }
   ]
 }
