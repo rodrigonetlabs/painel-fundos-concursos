@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28T13:55:07.715931+00:00",
+  "atualizado_em": "2026-10-29T14:01:12.394621+00:00",
   "total": 24,
   "oportunidades": [
     {
@@ -47,7 +47,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/748907-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-28T13:55:07.715931+00:00"
     },
     {
@@ -287,7 +287,7 @@
       "link": "https://ted.europa.eu/en/notice/-/detail/745258-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
-      "novo": true,
+      "novo": false,
       "detetado_em": "2026-10-28T13:55:07.715931+00:00"
     }
   ]
