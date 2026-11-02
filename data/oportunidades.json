@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-01T14:10:11.366482+00:00",
-  "total": 24,
+  "atualizado_em": "2026-11-02T16:55:45.796282+00:00",
+  "total": 23,
   "oportunidades": [
     {
       "id": "ted-728599-2026",
@@ -69,18 +69,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/519281-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-521794-2026",
-      "titulo": "Portugal – Pacote de software e sistemas informáticos diversos – (DAG) RENOVAÇÃO DE LICENCIAMENTO E AQUISIÇÃO DE NOVAS LICENÇAS ERP CEGID V10 / PRIMAVERA PUBLIC SECTOR E SERVIÇOS CONEXOS INCLUINDO INTEGRAÇÕES COM OUTROS SISTEMAS UTILIZADOS NA SPMS (20250237)",
-      "entidade": "SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/521794-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
