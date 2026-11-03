@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-02T16:55:45.796282+00:00",
-  "total": 23,
+  "atualizado_em": "2026-11-03T14:55:48.454112+00:00",
+  "total": 24,
   "oportunidades": [
     {
       "id": "ted-728599-2026",
@@ -49,6 +49,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-10-28T13:55:07.715931+00:00"
+    },
+    {
+      "id": "ted-762837-2026",
+      "titulo": "Portugal – Sistemas e dispositivos de vigilância e segurança – PI/726/2026",
+      "entidade": "Polícia Judiciária",
+      "tipo": "Concurso Público",
+      "prazo": "2026-12-02T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/762837-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-11-03T14:55:48.454112+00:00"
     },
     {
       "id": "ted-67886-2026",
