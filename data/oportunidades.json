@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-11-05T15:16:39.367305+00:00",
-  "total": 21,
+  "atualizado_em": "2026-11-06T14:53:19.874508+00:00",
+  "total": 19,
   "oportunidades": [
-    {
-      "id": "ted-693641-2026",
-      "titulo": "Portugal – Serviços das agências noticiosas – Aquisição de serviços integrados de acompanhamento, tratamento documental, indexação, análise, arquivo, interoperabilidade e difusão de informação mediática multicanal, abrangendo imprensa, meios online, rádio, televisão e outras fontes informativas relevantes, com recurso a plataforma digital e a funcionalidade de apoio analítico, incluindo componentes de automatização e inteligência artificial",
-      "entidade": "Secretaria-Geral do Governo",
-      "tipo": "Concurso Público",
-      "prazo": "2026-11-05T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/693641-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-10-08T14:28:36.655078+00:00"
-    },
     {
       "id": "ted-741317-2026",
       "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
@@ -69,18 +57,6 @@
       "tipo": "Concurso Público",
       "prazo": null,
       "link": "https://ted.europa.eu/en/notice/-/detail/527657-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-527860-2026",
-      "titulo": "Portugal – Serviços de desenvolvimento de software à medida – CPI 184/2023/CPI/CD/ECOSSISTEMA DE SERVIÇOS DIGITAIS PRR 2024-2026",
-      "entidade": "Agência para a Reforma Tecnológica do Estado, I. P.",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/527860-2026",
       "fonte": "TED (Tenders Electronic Daily)",
       "madeira": false,
       "novo": false,
