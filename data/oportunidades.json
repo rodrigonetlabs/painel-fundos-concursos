@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-10T15:29:10.306712+00:00",
-  "total": 17,
+  "atualizado_em": "2026-11-11T14:59:39.849686+00:00",
+  "total": 18,
   "oportunidades": [
     {
       "id": "ted-741317-2026",
@@ -37,6 +37,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-11-03T14:55:48.454112+00:00"
+    },
+    {
+      "id": "ted-785330-2026",
+      "titulo": "Portugal – Serviços de implementação de software – ISI.PR.26.013 - Evolução do sistema de gestão empresarial e documental com adoção de inteligência artificial na APS",
+      "entidade": "APS - Administração dos Portos de Sines e do Algarve, SA",
+      "tipo": "Concurso Público",
+      "prazo": "2026-12-09T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/785330-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-11-11T14:59:39.849686+00:00"
     },
     {
       "id": "ted-67886-2026",
