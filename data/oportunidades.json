@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-12T15:52:48.896424+00:00",
-  "total": 15,
+  "atualizado_em": "2026-11-13T15:13:33.483018+00:00",
+  "total": 16,
   "oportunidades": [
     {
       "id": "ted-741317-2026",
@@ -25,6 +25,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-10-28T13:55:07.715931+00:00"
+    },
+    {
+      "id": "ted-790782-2026",
+      "titulo": "Portugal – Pacote de software para sistemas financeiros – Aquisição de licenciamento ERP Cegid Primavera, OMNIA, Business Analytics, faturação eletrónica via YET, manutenção evolutiva e desenvolvimentos para o triénio 2027-2029",
+      "entidade": "Comissão de Coordenação e Desenvolvimento Regional do Norte, IP",
+      "tipo": "Concurso Público",
+      "prazo": "2026-11-26T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/790782-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-11-13T15:13:33.483018+00:00"
     },
     {
       "id": "ted-762837-2026",
