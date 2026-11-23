@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-11-22T15:09:27.754773+00:00",
+  "atualizado_em": "2026-11-23T19:06:09.543962+00:00",
   "total": 15,
   "oportunidades": [
-    {
-      "id": "ted-741317-2026",
-      "titulo": "Portugal – Equipamento para reprodução – CONTRATAÇÃO, POR LOTES DE LOCAÇÃO OPERACIONAL DE EQUIPAMENTO:",
-      "entidade": "Município da Maia",
-      "tipo": "Concurso Público",
-      "prazo": "2026-11-22T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/741317-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-10-27T13:04:37.738387+00:00"
-    },
     {
       "id": "ted-748907-2026",
       "titulo": "Portugal – Serviços de consultoria em matéria comercial e de gestão e serviços conexos – Aquisição de serviços especializados para a execução da Operação \"Up Cávado Qualificação\"",
@@ -49,6 +37,18 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-11-03T14:55:48.454112+00:00"
+    },
+    {
+      "id": "ted-812946-2026",
+      "titulo": "Portugal – Serviços de consultoria e de programação de software – Aquisição de serviços especializados de manutenção, suporte e evolução da solução de hiperautomação e inteligência artificial da AGSE, I.P.",
+      "entidade": "Agência para a Gestão do Sistema Educativo, IP",
+      "tipo": "Concurso Público",
+      "prazo": "2026-12-05T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/812946-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-11-23T19:06:09.543962+00:00"
     },
     {
       "id": "ted-785330-2026",
