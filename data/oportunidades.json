@@ -1,19 +1,7 @@
 {
-  "atualizado_em": "2026-11-26T17:37:52.885739+00:00",
-  "total": 14,
+  "atualizado_em": "2026-11-27T17:19:49.851747+00:00",
+  "total": 13,
   "oportunidades": [
-    {
-      "id": "ted-790782-2026",
-      "titulo": "Portugal – Pacote de software para sistemas financeiros – Aquisição de licenciamento ERP Cegid Primavera, OMNIA, Business Analytics, faturação eletrónica via YET, manutenção evolutiva e desenvolvimentos para o triénio 2027-2029",
-      "entidade": "Comissão de Coordenação e Desenvolvimento Regional do Norte, IP",
-      "tipo": "Concurso Público",
-      "prazo": "2026-11-26T23:59:59Z",
-      "link": "https://ted.europa.eu/en/notice/-/detail/790782-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-11-13T15:13:33.483018+00:00"
-    },
     {
       "id": "ted-762837-2026",
       "titulo": "Portugal – Sistemas e dispositivos de vigilância e segurança – PI/726/2026",
@@ -51,6 +39,18 @@
       "detetado_em": "2026-11-11T14:59:39.849686+00:00"
     },
     {
+      "id": "ted-826914-2026",
+      "titulo": "Portugal – Contadores de água – AQUISIÇÃO DE CONTADORES DE ÁGUA INTELIGENTES, MÓDULOS DE COMUNICAÇÃO E SOFTWARE DE GESTÃO DE DADOS – 2ª FASE",
+      "entidade": "Penafiel Verde, EM",
+      "tipo": "Concurso Público",
+      "prazo": "2026-12-28T23:59:59Z",
+      "link": "https://ted.europa.eu/en/notice/-/detail/826914-2026",
+      "fonte": "TED (Tenders Electronic Daily)",
+      "madeira": false,
+      "novo": true,
+      "detetado_em": "2026-11-27T17:19:49.851747+00:00"
+    },
+    {
       "id": "ted-67886-2026",
       "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – BIA - BOT DE INTELIGÊNCIA ARTIFICIAL PARA A CONTRATAÇÃO PÚBLICA",
       "entidade": "Infraestruturas de Portugal S.A.",
@@ -61,18 +61,6 @@
       "madeira": false,
       "novo": false,
       "detetado_em": "2026-08-08T09:20:40.784118+00:00"
-    },
-    {
-      "id": "ted-575507-2026",
-      "titulo": "Portugal – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – 4025024150/DA/A0290/2025-Renovação do licenciamento Microsoft do Exército, referente ao período de 01abr26 a 31mar27",
-      "entidade": "Estado-Maior do Exército",
-      "tipo": "Concurso Público",
-      "prazo": null,
-      "link": "https://ted.europa.eu/en/notice/-/detail/575507-2026",
-      "fonte": "TED (Tenders Electronic Daily)",
-      "madeira": false,
-      "novo": false,
-      "detetado_em": "2026-09-07T13:24:24.924090+00:00"
     },
     {
       "id": "ted-611884-2026",
